@@ -1,1 +1,1 @@
-# C.O.P.v2
+Bu versiyonda returnler 'log return' haline getirilmiş ayrıca portföy optimizasyonu için CVXP kullanılmıştır. Kısıtlamalar ise 'short trade' yok. Ve seçilen hisselerin ağırlıkları 1 1'e eşittir. 3. versiyonda zipline pipline kurulması ve(ya) 'https://panel.holoviz.org/' dan bir optimizasyon ve risk factorlerin genişletilmesi konusunda eklemeler yapacağım
